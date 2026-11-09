@@ -23,6 +23,9 @@
 - [Licensed House Cleaning Services Los Angeles](https://local-business-guides.github.io/art-s-cleaning-services-of-los-angeles/licensed-house-cleaning-services-los-angeles/): Licensed House Cleaning Services Los Angeles: get a clear cleaning plan for your home in Los Angeles. Call Art's Cleaning Services today.
 - [House Cleaning Service Los Angeles](https://local-business-guides.github.io/art-s-cleaning-services-of-los-angeles/house-cleaning-service-los-angeles/): House Cleaning Service Los Angeles: get detailed home cleaning with non-toxic products from a local team. Call Art's Cleaning Services to book.
 
+## Newsroom
+- [Art's Cleaning Services Shares New Resource on House Cleaning Services Los Angeles](https://local-business-guides.github.io/art-s-cleaning-services-of-los-angeles/news/2026-11-09-art-s-cleaning-services-shares-new-resource-on/): The Los Angeles company published a guide this week, along with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-09)
+
 ## Pages
 - [House Cleaning Services in Los Angeles, California](https://local-business-guides.github.io/art-s-cleaning-services-of-los-angeles/): Enjoy a carefully cleaned home with service from a local Los Angeles team. Call +1323-370-0898.
 - [About Art's Cleaning Services of Los Angeles](https://local-business-guides.github.io/art-s-cleaning-services-of-los-angeles/about/): About Art's Cleaning Services of Los Angeles, Los Angeles.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/art-s-cleaning-services-of-los-angeles/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/art-s-cleaning-services-of-los-angeles/news/rss.xml)
 - [Main resource site](https://arts-cleaning-los-angeles.localbusinesses1.chatgpt.site)
